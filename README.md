@@ -16,7 +16,7 @@ This was unexpected and it took a good 20mn to figure out how to fix this. I tri
 ## Test Files Location is Important
 
 After I setup my folder structure, **where my test file would not be located in the functions folder from which they will be calling these functions**, I encountered an error.  
-And this is was probably my first mistake in this project. The book did not mention such a thing and I was lucky to having figured it out on my own pretty quickly.  
+And this was probably my first mistake in this project. The book did not mention such a thing and I was lucky to having figured it out on my own pretty quickly.  
 
 Just like I hinted it here, **test files should be together with the function files that they need to call**. 
 
@@ -33,7 +33,7 @@ After I compared my code to the solutions:
   GRADE: High pass.
 
 - **exercise 11-2**:  
-  Here too, except for the population parameter that I defined. **I made it a string** by defining it as `population=''`. Which I used by calling it `'28M'`.
+  Here too, except for the population parameter that I defined. **I made it a string** by defining it as `population=''`. Which I used by calling it as `'28M'`.
 
   ![alt text](image-1.png)
 
