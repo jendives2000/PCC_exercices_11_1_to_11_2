@@ -10,12 +10,3 @@
 # 1d. Run the test, and make sure test_city_country() passes.
 
 # -----------------------------------------------------------------------------
-
-# -----------------------------------------------------------------------------
-
-# 1a. Write a function that accepts two parameters: a city name and a country name.
-
-# 1b.1. and save this file in a new folder so pytest won’t try to run the tests we’ve already written.
-# 1c. Create a file called test_cities.py that tests the function you just wrote.
-# 1c.1. Write a function called test_city_country() to verify that calling your function with values such as 'santiago' and 'chile' results in the correct string.
-# 1d. Run the test, and make sure test_city_country() passes.

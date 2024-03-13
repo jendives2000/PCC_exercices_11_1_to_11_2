@@ -1,6 +1,6 @@
 # This is part of the exercise 11-1.
 # -----------------------------------------------------------------------------
-from city_functions import get_city_country
+from city_functions import get_city_country  # 1b.
 
 # -----------------------------------------------------------------------------
 
